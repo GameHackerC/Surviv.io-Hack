@@ -1,7 +1,7 @@
 # Surviv.io-Aimbot-Working
 Surviv.io Aimbot is working and unbannable!!!
 
-Derections:
+Instructions:
 1. Download Zip
 2. Open a new tab
 3. Go to chrome://extensions
