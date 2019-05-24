@@ -1,5 +1,5 @@
-# Surviv.io-Aimbot-Working
-Surviv.io Aimbot is working and unbannable!!!
+# Surviv.io-Hack-Working
+Surviv.io Hack is working and unbannable!!!
 
 Instructions:
 1. Download Zip
