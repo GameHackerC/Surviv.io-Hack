@@ -2,6 +2,7 @@
 Surviv.io Hack is working and unbannable!!!
 
 Instructions:
+1. Click on the file:
 1. Download Zip
 2. Open a new tab
 3. Go to chrome://extensions
