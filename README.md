@@ -2,12 +2,12 @@
 Surviv.io Hack is working and unbannable!!!
 
 Instructions:
-1. Click on the file:
-1. Download Zip
-2. Open a new tab
-3. Go to chrome://extensions
-4. Turn on developer mode
-5. Go to the zip download for the cheats
-6. Drag the file to the tab that you opened
-7. Go to surviv.io
-8. Have Fun!!!
+1. Click on the file: survivio-plus-master.zip
+2. Click Download
+3. Open a new tab
+4. Go to chrome://extensions
+5. Turn on developer mode
+6. Go to the zip download for the cheats
+7. Drag the file to the tab that you opened
+8. Go to surviv.io
+9. Have Fun!!!
